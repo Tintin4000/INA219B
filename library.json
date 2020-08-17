@@ -1,0 +1,21 @@
+{
+  "name": "INA219B",
+  "version": "0.0.1",
+  "description": "INA219B TI i2c output current/voltage/power monitor Library",
+  "keywords": "ina219, sensor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tintin4000/INA219B"
+  },
+  "authors": [
+    {
+      "name": "Didier Coyman",
+      "email": "didier.coyman@gmail.com",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Tintin4000/INA219B",
+  "frameworks": "Arduino",
+  "platforms": "*"
+}
